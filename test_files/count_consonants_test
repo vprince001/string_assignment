@@ -1,0 +1,14 @@
+-------------------------------
+Running test with input "this is some text"
+9
+-------------------------------
+Running test with input "hello"
+3
+-------------------------------
+Running test with input "how are you"
+4
+-------------------------------
+Running test with input "aeiou"
+0
+-------------------------------
+Tests passed!
